@@ -1,0 +1,29 @@
+
+G
+src/com/xx/pc/Main.java,2\2\22ea52c3d71ee1cb8e010ac5d790d9cfd398ac2e
+L
+src/com/xx/pc/model/RAM.java,0\6\0623c5ad2ca9970215b01e1f36f4c6005753a83f
+P
+ src/com/xx/pc/model/Cooling.java,e\2\e2dbd983cd72b7105d5ec9d02f8dbcf2804a7f55
+R
+"src/com/xx/pc/model/HardDrive.java,f\2\f2e1153b2f75ba90122c5306f0d5edd77cef2fb9
+T
+$src/com/xx/pc/model/Motherboard.java,5\b\5b86f9d356570b30005e00c98830e2fb9bf52ad0
+T
+$src/com/xx/pc/model/PowerSupply.java,7\d\7d3f7156d187db562d2691208ae79edd52239221
+R
+"src/com/xx/pc/model/Processor.java,5\c\5c6e484d540a7f4ba320e711fabdad25d64691cb
+R
+"src/com/xx/pc/model/VideoCard.java,3\e\3e02aeb22573a43175c61767a2ba967b75ecaf60
+K
+src/com/xx/pc/model/PC.java,a\b\abd540dad8ea9dd6850c3590f386f1535214a9d4
+U
+%src/com/xx/pc/ui/DetailSelection.java,a\d\add22ad3d357440321f299ceea8119dd631f30fc
+X
+(src/com/xx/pc/model/Characteristics.java,f\d\fdd4376d97e208a99dc7accba25b06f649a11461
+P
+ src/com/xx/pc/logic/Methods.java,b\4\b4be13c84c9324bad54bda17fdd89de2cc08df21
+T
+$src/com/xx/pc/logic/Displayable.java,2\b\2bebc7e84b68743f528db4104bfff09a9254a82e
+Q
+!src/com/xx/pc/model/Monitors.java,0\f\0f49760e9e992143165b8ae3eb346e010807815f

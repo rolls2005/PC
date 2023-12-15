@@ -1,0 +1,9 @@
+
+f	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“µ¦Ÿ
+f	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£õ±
+h	java:S116"NRename this field "RAM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºó§ãúÿÿÿÿ
+r	java:S116	"VRename this field "PowerSupply" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÛË—8Ù¾…Ã1
+h	java:S116<"NRename this field "RAM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºó§ãúÿÿÿÿ
+r	java:S116>"VRename this field "PowerSupply" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÛË—8ú¥À…Ã1
+c	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“µ¦Ÿ
+c	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£õ±
